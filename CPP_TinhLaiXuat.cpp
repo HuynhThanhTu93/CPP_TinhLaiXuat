@@ -43,7 +43,7 @@ int main()
         tienlai = tiengui * laixuat;
         cout << "Nam: " << i << "  Tien gui: " << tiengui << "  Lai xuat: " << tienlai << endl;
         tiengui = tiengui + tienlai;
-        cout << "Tien thuc nhan cua nam " << i << " : " << tiengui << i << "\n";
+        cout << "Tien thuc nhan cua nam " << i << " : " << tiengui << "\n";
     }
 }
 
